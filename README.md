@@ -2,7 +2,7 @@
 
 ##CURRENT PROGRESS
 
-The above directory core_header_documentation contains the documentation for all the header files listed in __nginx/core__ directory.
+The above directory __core_header_documentation__ contains the documentation for all the header files listed in __nginx/core__ directory.
 
 Each of these files include
 
