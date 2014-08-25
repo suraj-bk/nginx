@@ -3,7 +3,9 @@
 ##CURRENT PROGRESS
 
 The above directory core_header_documentation contains the documentation for all the header files listed in __nginx/core__ directory.
+
 Each of these files include
+
 1. __Macros defined__ in header file.
 2. __Functions__ defined in header file.
 3. __Data structures__ defined in header file.
