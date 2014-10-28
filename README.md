@@ -4,7 +4,7 @@ The respository contains the documents for analysis of nginx source code.
 The following concepts are explained in this file.
 
 #Repository Structure
-
+```
 __/nginx__
      /Memory Management       ---  Memory pool and related operations
      /Buffer Management       ---  Structure of Buffer,types of buffer and buffer operations
@@ -20,3 +20,4 @@ __/nginx__
                                       - Implementaion of data structures
                                       - Implementaion of Memory Pools
                                       - Buffer Implementation
+```
